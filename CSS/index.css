@@ -91,11 +91,10 @@ body {
 
 /* start landing */
 .landing {
-    background-image: url(/Assets/TheMainWallPaper.jpg);
+    background-image: url("../Assets/TheMainWallPaper.jpg");
     background-size: cover;
     height: calc(100vh);
     position: relative;
-
 }
 
 .landing .intro {
@@ -136,14 +135,14 @@ body {
     grid-gap: 10px;
 }
 
-.imgcontainer{
+.imgcontainer {
     border: .5rem solid gold;
     margin-right: 20px;
     width: 80%;
     position: relative;
 }
 
-.imgcontainer img{
+.imgcontainer img {
     width: 90%;
     height: 100%;
     position: absolute;
@@ -239,7 +238,7 @@ body {
 
 /* start gallery */
 
-.galler{
+.galler {
     display: flex;
     flex-direction: column;
     justify-content: start;
@@ -248,7 +247,7 @@ body {
     padding: 20px 5%;
 }
 
-.project--container{
+.project--container {
     display: flex;
     width: 100%;
     gap: 1rem;
@@ -261,7 +260,7 @@ body {
     margin-top: 3rem;
 }
 
-.card{
+.card {
     display: flex;
     flex-direction: column;
     width: 25%;
@@ -270,7 +269,7 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
-    .card{
+    .card {
         display: flex;
         flex-direction: column;
         width: 100%;
@@ -278,11 +277,11 @@ body {
     }
 }
 
-.projecttitle{
+.projecttitle {
     color: white;
 }
 
-.description{
+.description {
     color: white;
 }
 

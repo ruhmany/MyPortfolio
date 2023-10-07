@@ -91,7 +91,7 @@ body {
 
 /* start landing */
 .landing {
-    background-image: url("../Assets/TheMainWallPaper.jpg");
+    background-image: url("TheMainWallPaper.jpg");
     background-size: cover;
     height: calc(100vh);
     position: relative;

@@ -344,6 +344,12 @@ body {
     color: var(--secondary-color);
 }
 
+.social a {
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+
 /* end contact */
 
 /* start footer */

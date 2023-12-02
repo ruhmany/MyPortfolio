@@ -273,7 +273,7 @@ body {
     padding-top: auto;
     padding-bottom: auto;
     border: #ee5e52 solid 2px;
-    width: 250px;
+    width: auto;
     height: 30px;
     text-align: center;
     justify-content: center;

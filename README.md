@@ -30,7 +30,7 @@ CSS: Employed for styling and layout, ensuring a visually appealing and consiste
 JavaScript: Implemented for dynamic and interactive features, providing a user-friendly experience.
 
 ## Getting Started
-To explore MyPortfolio, simply visit the live website at www.myportfolio.com or clone the repository and follow the instructions in the Installation Guide for local deployment.
+To explore MyPortfolio, simply visit the live website at [www.myportfolio.com](https://ruhmany.github.io/MyPortfolio/) or clone the repository and follow the instructions in the Installation Guide for local deployment.
 
 ## Contributing
 Contributions to MyPortfolio are appreciated! Refer to the Contribution Guidelines for details on how to contribute to the ongoing development of your portfolio.
